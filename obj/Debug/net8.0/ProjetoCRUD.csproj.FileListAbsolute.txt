@@ -1,0 +1,14 @@
+C:\Users\SMN-Estagiário\Documents\ProjetoCRUD\bin\Debug\net8.0\ProjetoCRUD.exe
+C:\Users\SMN-Estagiário\Documents\ProjetoCRUD\bin\Debug\net8.0\ProjetoCRUD.deps.json
+C:\Users\SMN-Estagiário\Documents\ProjetoCRUD\bin\Debug\net8.0\ProjetoCRUD.runtimeconfig.json
+C:\Users\SMN-Estagiário\Documents\ProjetoCRUD\bin\Debug\net8.0\ProjetoCRUD.dll
+C:\Users\SMN-Estagiário\Documents\ProjetoCRUD\bin\Debug\net8.0\ProjetoCRUD.pdb
+C:\Users\SMN-Estagiário\Documents\ProjetoCRUD\obj\Debug\net8.0\ProjetoCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN-Estagiário\Documents\ProjetoCRUD\obj\Debug\net8.0\ProjetoCRUD.AssemblyInfoInputs.cache
+C:\Users\SMN-Estagiário\Documents\ProjetoCRUD\obj\Debug\net8.0\ProjetoCRUD.AssemblyInfo.cs
+C:\Users\SMN-Estagiário\Documents\ProjetoCRUD\obj\Debug\net8.0\ProjetoCRUD.csproj.CoreCompileInputs.cache
+C:\Users\SMN-Estagiário\Documents\ProjetoCRUD\obj\Debug\net8.0\ProjetoCRUD.dll
+C:\Users\SMN-Estagiário\Documents\ProjetoCRUD\obj\Debug\net8.0\refint\ProjetoCRUD.dll
+C:\Users\SMN-Estagiário\Documents\ProjetoCRUD\obj\Debug\net8.0\ProjetoCRUD.pdb
+C:\Users\SMN-Estagiário\Documents\ProjetoCRUD\obj\Debug\net8.0\ProjetoCRUD.genruntimeconfig.cache
+C:\Users\SMN-Estagiário\Documents\ProjetoCRUD\obj\Debug\net8.0\ref\ProjetoCRUD.dll
